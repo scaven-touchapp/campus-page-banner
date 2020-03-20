@@ -15,14 +15,11 @@
       "purpose": "any maskable"
     }
   ],
-  "background_color": "#555555",
   "prefer_related_applications": true,
   "related_applications": [
     {
       "platform": "play",
       "id": "com.twou.android.campus"
     }
-  ],
-  "start_url": "./index.html",
-  "display": "standalone"
+  ]
 }
